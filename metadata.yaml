@@ -1,0 +1,41 @@
+_repo: Creatures-of-the-Night--A-Book-of-Wild-Life-in-Western-Britain_29349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rees, Alfred Wellesley
+    alias: Rees, Alfred W.
+    birthdate: 1872
+    deathdate: 1917
+    gutenberg_agent_id: '33864'
+    url: http://www.gutenberg.org/2009/agents/33864
+description: ''
+gutenberg_bookshelf: Animals-Wild
+gutenberg_issued: '2009-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29349'
+  lccn: '06012146'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Anecdotes'
+- !lcsh 'Animal behavior'
+tableOfContents: "The otter: I. The holt among the alders. II. The pool beneath the\
+  \ farmstead. III. The gorge of Alltycafn.\r\nThe water-vole: I. Our village hounds.\
+  \ II. The burrow in the river bank. III. Wild hunting. IV. Saved by an enemy. V.\
+  \ The courage of fear.\r\nThe field-vole: I. Hidden pathways in the grass. II. The\
+  \ valley of Olwen. III. A barren hillside.\r\nThe fox: I. The last hunt. II. A new\
+  \ home. III. The cub and the polecat. IV. A cry of the night.\r\nThe brown hare:\
+  \ I. The upland cornfield. II. March madness. III. The chase.\r\nThe badger: I.\
+  \ A woodland solitude. II. Home discipline. III. Fear of the trap. IV. The winter\
+  \ \"oven.\" V. Hillside trails.\r\nThe hedgehog: I. A vagabond hunter. II. An experience\
+  \ in snake-killing.\r\nNight in the woods: I. Haunts of the badger and the fox.\
+  \ II. The Crag of Vortigern."
+title: 'Creatures of the Night: A Book of Wild Life in Western Britain'
+url: http://www.gutenberg.org/ebooks/29349
